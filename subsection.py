@@ -1,5 +1,5 @@
 #Make sure code runs with Python 3.10.9 (base:conda), or libraries will not work
-import nmf_imaging
+import nmf_imagingJAX
 from astropy.io import fits
 import numpy as np
 import os
