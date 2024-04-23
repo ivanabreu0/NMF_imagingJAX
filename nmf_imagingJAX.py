@@ -1,4 +1,4 @@
-import JNonnegMFPy as nmf
+import NonnegMFJAX as nmf
 #from NonnegMFPy import nmf
 import numpy as np
 import os
